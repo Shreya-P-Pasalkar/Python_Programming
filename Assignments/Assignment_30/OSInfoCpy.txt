@@ -1,0 +1,5 @@
+Operating System is a software.
+Which acts as bridge between the end user and System hardware.
+Operating System does 5 important tasks.
+These are Process Management,Memory Management,Cpu Scheduling,IO Management and Harware Abstraction.
+Operating system is soo fasinating to learn.
