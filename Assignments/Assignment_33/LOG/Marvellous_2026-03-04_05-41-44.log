@@ -1,0 +1,314 @@
+------------------------------------------------------------
+----------Marvellous Platform Surveillance System-----------
+Log created at : Wed Mar  4 05:41:44 2026
+------------------------------------------------------------
+
+----------------------System Report-------------------------
+CPU Usage : 5.2 %
+------------------------------------------------------------
+RAM Usage : 53.1 %
+------------------------------------------------------------
+Disk Usage Report 
+C:\ -> 33.8 % used
+D:\ -> 0.1 % used
+------------------------------------------------------------
+Network Usage Report
+Sent : 65.37 MB
+Receive : 870.51 MB
+------------------------------------------------------------
+------------------Top CPU Usage Processes-------------------
+------------------------------------------------------------
+PID : 0
+Name : System Idle Process
+Start Time : NA
+CPU %% : 1470.7
+Thread Count : 48
+Number of Files Opened : 0
+RSS - Resident Set Size : 8192.0 MB
+PID : 2832
+Name : python.exe
+Start Time : NA
+CPU %% : 74.9
+Thread Count : 3
+Number of Files Opened : 2
+RSS - Resident Set Size : 34844672.0 MB
+PID : 10920
+Name : OpenConsole.exe
+Start Time : NA
+CPU %% : 3.8
+Thread Count : 6
+Number of Files Opened : 2
+RSS - Resident Set Size : 20398080.0 MB
+PID : 16276
+Name : Code.exe
+Start Time : NA
+CPU %% : 3.8
+Thread Count : 13
+Number of Files Opened : 15
+RSS - Resident Set Size : 572100608.0 MB
+PID : 25868
+Name : explorer.exe
+Start Time : NA
+CPU %% : 3.2
+Thread Count : 75
+Number of Files Opened : 56
+RSS - Resident Set Size : 314753024.0 MB
+PID : 4
+Name : System
+Start Time : NA
+CPU %% : 2.0
+Thread Count : 330
+Number of Files Opened : 0
+RSS - Resident Set Size : 6348800.0 MB
+PID : 10216
+Name : Code.exe
+Start Time : NA
+CPU %% : 1.7
+Thread Count : 19
+Number of Files Opened : 5
+RSS - Resident Set Size : 164823040.0 MB
+PID : 10580
+Name : OneDrive.exe
+Start Time : NA
+CPU %% : 1.6
+Thread Count : 38
+Number of Files Opened : 47
+RSS - Resident Set Size : 161431552.0 MB
+PID : 2044
+Name : chrome.exe
+Start Time : NA
+CPU %% : 1.3
+Thread Count : 50
+Number of Files Opened : 185
+RSS - Resident Set Size : 254054400.0 MB
+PID : 17632
+Name : Code.exe
+Start Time : NA
+CPU %% : 0.8
+Thread Count : 27
+Number of Files Opened : 53
+RSS - Resident Set Size : 317726720.0 MB
+------------------------------------------------------------
+----------------Top Memory Usage Processes------------------
+------------------------------------------------------------
+PID : 16276
+Name : Code.exe
+Start Time : NA
+CPU %% : 3.8
+Thread Count : 13
+Number of Files Opened : 15
+RSS - Resident Set Size : 572100608.0 MB
+PID : 17632
+Name : Code.exe
+Start Time : NA
+CPU %% : 0.8
+Thread Count : 27
+Number of Files Opened : 53
+RSS - Resident Set Size : 317726720.0 MB
+PID : 25868
+Name : explorer.exe
+Start Time : NA
+CPU %% : 3.2
+Thread Count : 75
+Number of Files Opened : 56
+RSS - Resident Set Size : 314753024.0 MB
+PID : 9644
+Name : chrome.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 29
+Number of Files Opened : 42
+RSS - Resident Set Size : 303697920.0 MB
+PID : 2044
+Name : chrome.exe
+Start Time : NA
+CPU %% : 1.3
+Thread Count : 50
+Number of Files Opened : 185
+RSS - Resident Set Size : 254054400.0 MB
+PID : 12600
+Name : Code.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 26
+Number of Files Opened : 21
+RSS - Resident Set Size : 220975104.0 MB
+PID : 21484
+Name : WhatsApp.Root.exe
+Start Time : NA
+CPU %% : 0.2
+Thread Count : 37
+Number of Files Opened : 105
+RSS - Resident Set Size : 217063424.0 MB
+PID : 15168
+Name : chrome.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 28
+Number of Files Opened : 42
+RSS - Resident Set Size : 202928128.0 MB
+PID : 20068
+Name : Copilot.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 31
+Number of Files Opened : 157
+RSS - Resident Set Size : 194723840.0 MB
+PID : 9584
+Name : chrome.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 24
+Number of Files Opened : 3
+RSS - Resident Set Size : 171503616.0 MB
+------------------------------------------------------------
+----------------Top Thread Count Processes------------------
+------------------------------------------------------------
+PID : 4
+Name : System
+Start Time : NA
+CPU %% : 2.0
+Thread Count : 330
+Number of Files Opened : 0
+RSS - Resident Set Size : 6348800.0 MB
+PID : 25868
+Name : explorer.exe
+Start Time : NA
+CPU %% : 3.2
+Thread Count : 75
+Number of Files Opened : 56
+RSS - Resident Set Size : 314753024.0 MB
+PID : 3180
+Name : uihost.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 64
+Number of Files Opened : 2
+RSS - Resident Set Size : 36012032.0 MB
+PID : 2044
+Name : chrome.exe
+Start Time : NA
+CPU %% : 1.3
+Thread Count : 50
+Number of Files Opened : 185
+RSS - Resident Set Size : 254054400.0 MB
+PID : 0
+Name : System Idle Process
+Start Time : NA
+CPU %% : 1470.7
+Thread Count : 48
+Number of Files Opened : 0
+RSS - Resident Set Size : 8192.0 MB
+PID : 14808
+Name : mc-extn-browserhost.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 48
+Number of Files Opened : 2
+RSS - Resident Set Size : 18313216.0 MB
+PID : 17884
+Name : Code.exe
+Start Time : NA
+CPU %% : 0.1
+Thread Count : 47
+Number of Files Opened : 55
+RSS - Resident Set Size : 126996480.0 MB
+PID : 24360
+Name : browserhost.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 46
+Number of Files Opened : 0
+RSS - Resident Set Size : 17911808.0 MB
+PID : 13208
+Name : SystemSettings.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 44
+Number of Files Opened : 21
+RSS - Resident Set Size : 9318400.0 MB
+PID : 16148
+Name : M365Copilot.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 41
+Number of Files Opened : 19
+RSS - Resident Set Size : 116854784.0 MB
+------------------------------------------------------------
+-----------------Top Open files Processes-------------------
+------------------------------------------------------------
+PID : 3268
+Name : chrome.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 22
+Number of Files Opened : 303
+RSS - Resident Set Size : 103718912.0 MB
+PID : 2044
+Name : chrome.exe
+Start Time : NA
+CPU %% : 1.3
+Thread Count : 50
+Number of Files Opened : 185
+RSS - Resident Set Size : 254054400.0 MB
+PID : 20068
+Name : Copilot.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 31
+Number of Files Opened : 157
+RSS - Resident Set Size : 194723840.0 MB
+PID : 21440
+Name : PhoneExperienceHost.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 15
+Number of Files Opened : 149
+RSS - Resident Set Size : 152616960.0 MB
+PID : 4044
+Name : chrome.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 30
+Number of Files Opened : 129
+RSS - Resident Set Size : 123998208.0 MB
+PID : 22236
+Name : CrossDeviceService.exe
+Start Time : NA
+CPU %% : 0.0
+Thread Count : 13
+Number of Files Opened : 123
+RSS - Resident Set Size : 88752128.0 MB
+PID : 21484
+Name : WhatsApp.Root.exe
+Start Time : NA
+CPU %% : 0.2
+Thread Count : 37
+Number of Files Opened : 105
+RSS - Resident Set Size : 217063424.0 MB
+PID : 25868
+Name : explorer.exe
+Start Time : NA
+CPU %% : 3.2
+Thread Count : 75
+Number of Files Opened : 56
+RSS - Resident Set Size : 314753024.0 MB
+PID : 17884
+Name : Code.exe
+Start Time : NA
+CPU %% : 0.1
+Thread Count : 47
+Number of Files Opened : 55
+RSS - Resident Set Size : 126996480.0 MB
+PID : 17632
+Name : Code.exe
+Start Time : NA
+CPU %% : 0.8
+Thread Count : 27
+Number of Files Opened : 53
+RSS - Resident Set Size : 317726720.0 MB
+------------------------------------------------------------
+
+------------------------------------------------------------
+---------------------End of Log File------------------------
+------------------------------------------------------------

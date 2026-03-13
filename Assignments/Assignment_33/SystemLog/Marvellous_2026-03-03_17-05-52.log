@@ -1,0 +1,1529 @@
+------------------------------------------------------------
+----------Marvellous Platform Surveillance System-----------
+Log created at : Tue Mar  3 17:05:52 2026
+------------------------------------------------------------
+
+----------------------System Report-------------------------
+CPU Usage : 1.9 %
+------------------------------------------------------------
+RAM Usage : 57.2 %
+------------------------------------------------------------
+Disk Usage Report 
+C:\ -> 34.6 % used
+D:\ -> 0.1 % used
+------------------------------------------------------------
+Network Usage Report
+Sent : 23.40 MB
+Receive : 708.93 MB
+PID : 0
+Name : System Idle Process
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : NA
+CPU % : 1470.60
+Memory % : 0.00
+Thread Count : 48.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 4
+Name : System
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : NA
+CPU % : 4.20
+Memory % : 0.06
+Thread Count : 337.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 1208
+Name : LenovoVantage-(BatteryWidgetAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 10.00
+Files Opened : 15
+------------------------------------------------------------
+
+PID : 1280
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 5.40
+Memory % : 1.94
+Thread Count : 29.00
+Files Opened : 53
+------------------------------------------------------------
+
+PID : 2176
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count : 5.00
+Files Opened : 3
+------------------------------------------------------------
+
+PID : 2492
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 22.00
+Files Opened : 18
+------------------------------------------------------------
+
+PID : 2740
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 3.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 3152
+Name : SecurityHealthSystray.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count : 2.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 3296
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.40
+Thread Count : 29.00
+Files Opened : 33
+------------------------------------------------------------
+
+PID : 3424
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 8.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 3468
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count : 26.00
+Files Opened : 19
+------------------------------------------------------------
+
+PID : 3524
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 21.00
+Files Opened : 21
+------------------------------------------------------------
+
+PID : 3904
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 11.00
+Files Opened : 12
+------------------------------------------------------------
+
+PID : 3992
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 8.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 4012
+Name : AppVShNotify.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 1.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 4072
+Name : WindowsTerminal.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.70
+Memory % : 0.53
+Thread Count : 11.00
+Files Opened : 10
+------------------------------------------------------------
+
+PID : 5568
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.33
+Thread Count : 9.00
+Files Opened : 3
+------------------------------------------------------------
+
+PID : 5680
+Name : IGCCTray.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.40
+Thread Count : 9.00
+Files Opened : 32
+------------------------------------------------------------
+
+PID : 6004
+Name : sihost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 12.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 6116
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.64
+Thread Count : 28.00
+Files Opened : 9
+------------------------------------------------------------
+
+PID : 6600
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.65
+Thread Count : 32.00
+Files Opened : 33
+------------------------------------------------------------
+
+PID : 6624
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.50
+Memory % : 1.83
+Thread Count : 30.00
+Files Opened : 62
+------------------------------------------------------------
+
+PID : 6700
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.50
+Thread Count : 45.00
+Files Opened : 158
+------------------------------------------------------------
+
+PID : 7980
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count : 9.00
+Files Opened : 8
+------------------------------------------------------------
+
+PID : 8196
+Name : SystemSettings.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count : 44.00
+Files Opened : 22
+------------------------------------------------------------
+
+PID : 8232
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 2.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 8364
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 3.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 8620
+Name : EllipticHPDDaemon.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 2.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 9184
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 19.00
+Files Opened : 5
+------------------------------------------------------------
+
+PID : 9212
+Name : OpenConsole.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 2.40
+Memory % : 0.12
+Thread Count : 7.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 9224
+Name : Widgets.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count : 13.00
+Files Opened : 14
+------------------------------------------------------------
+
+PID : 9468
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.53
+Thread Count : 22.00
+Files Opened : 3
+------------------------------------------------------------
+
+PID : 9548
+Name : Copilot.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 1.10
+Thread Count : 27.00
+Files Opened : 157
+------------------------------------------------------------
+
+PID : 10384
+Name : ApplicationFrameHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.27
+Thread Count : 5.00
+Files Opened : 7
+------------------------------------------------------------
+
+PID : 10428
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 3.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 10504
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 3.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 10560
+Name : Win32Controller.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 5.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 11012
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 3.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 11088
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 3.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 11112
+Name : OneDrive.Sync.Service.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count : 18.00
+Files Opened : 20
+------------------------------------------------------------
+
+PID : 11156
+Name : ipf_helper.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.05
+Thread Count : 5.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 11200
+Name : uihost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.22
+Thread Count : 66.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 11336
+Name : AppActions.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.28
+Thread Count : 7.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 11392
+Name : explorer.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 11.50
+Memory % : 2.08
+Thread Count : 111.00
+Files Opened : 78
+------------------------------------------------------------
+
+PID : 11460
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count : 5.00
+Files Opened : 8
+------------------------------------------------------------
+
+PID : 11640
+Name : taskhostw.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.15
+Thread Count : 8.00
+Files Opened : 8
+------------------------------------------------------------
+
+PID : 11728
+Name : FnHotkeyUtility.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count : 15.00
+Files Opened : 14
+------------------------------------------------------------
+
+PID : 11752
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 22.00
+Files Opened : 21
+------------------------------------------------------------
+
+PID : 11756
+Name : WidgetService.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.15
+Thread Count : 6.00
+Files Opened : 9
+------------------------------------------------------------
+
+PID : 11764
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.20
+Memory % : 0.07
+Thread Count : 29.00
+Files Opened : 38
+------------------------------------------------------------
+
+PID : 11804
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 21.00
+Files Opened : 23
+------------------------------------------------------------
+
+PID : 11964
+Name : ONENOTEM.EXE
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count : 3.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 12348
+Name : ShellHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count : 7.00
+Files Opened : 5
+------------------------------------------------------------
+
+PID : 12880
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count : 23.00
+Files Opened : 5
+------------------------------------------------------------
+
+PID : 12920
+Name : CrossDeviceResume.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count : 7.00
+Files Opened : 6
+------------------------------------------------------------
+
+PID : 13408
+Name : unsecapp.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 3.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 13572
+Name : CrossDeviceService.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.53
+Thread Count : 15.00
+Files Opened : 123
+------------------------------------------------------------
+
+PID : 13584
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.59
+Thread Count : 9.00
+Files Opened : 5
+------------------------------------------------------------
+
+PID : 13776
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count : 3.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 13960
+Name : SearchHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.81
+Thread Count : 13.00
+Files Opened : 27
+------------------------------------------------------------
+
+PID : 14004
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.93
+Thread Count : 19.00
+Files Opened : 5
+------------------------------------------------------------
+
+PID : 14036
+Name : UserOOBEBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 2.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 14092
+Name : StartMenuExperienceHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.78
+Thread Count : 16.00
+Files Opened : 22
+------------------------------------------------------------
+
+PID : 14200
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.15
+Thread Count : 7.00
+Files Opened : 4
+------------------------------------------------------------
+
+PID : 14372
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.44
+Thread Count : 14.00
+Files Opened : 15
+------------------------------------------------------------
+
+PID : 14416
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 20.00
+Files Opened : 16
+------------------------------------------------------------
+
+PID : 14424
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count : 3.00
+Files Opened : 10
+------------------------------------------------------------
+
+PID : 14480
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.35
+Thread Count : 30.00
+Files Opened : 41
+------------------------------------------------------------
+
+PID : 14676
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.45
+Thread Count : 22.00
+Files Opened : 23
+------------------------------------------------------------
+
+PID : 15136
+Name : ShellExperienceHost.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.50
+Thread Count : 20.00
+Files Opened : 9
+------------------------------------------------------------
+
+PID : 15552
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 3.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 15848
+Name : MessagingPlugin.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.23
+Thread Count : 15.00
+Files Opened : 9
+------------------------------------------------------------
+
+PID : 15972
+Name : OpenConsole.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 6.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 16052
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 9.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 16420
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 6.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 16548
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.35
+Thread Count : 21.00
+Files Opened : 5
+------------------------------------------------------------
+
+PID : 16580
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.25
+Thread Count : 22.00
+Files Opened : 19
+------------------------------------------------------------
+
+PID : 16868
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 11.00
+Files Opened : 17
+------------------------------------------------------------
+
+PID : 16928
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.54
+Thread Count : 31.00
+Files Opened : 34
+------------------------------------------------------------
+
+PID : 17492
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.62
+Thread Count : 26.00
+Files Opened : 7
+------------------------------------------------------------
+
+PID : 17508
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.98
+Thread Count : 50.00
+Files Opened : 74
+------------------------------------------------------------
+
+PID : 17528
+Name : PhoneExperienceHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.00
+Thread Count : 21.00
+Files Opened : 160
+------------------------------------------------------------
+
+PID : 17756
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 16.00
+Files Opened : 23
+------------------------------------------------------------
+
+PID : 18032
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count : 8.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 18080
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 14.00
+Files Opened : 24
+------------------------------------------------------------
+
+PID : 18112
+Name : python.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 79.30
+Memory % : 0.15
+Thread Count : 4.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 18240
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count : 10.00
+Files Opened : 14
+------------------------------------------------------------
+
+PID : 18312
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 2.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 18344
+Name : FileCoAuth.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.20
+Thread Count : 6.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 18560
+Name : RtkAudUService64.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 10.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 18788
+Name : powershell.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 11.00
+Files Opened : 12
+------------------------------------------------------------
+
+PID : 19020
+Name : IGCC.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 9.00
+Files Opened : 8
+------------------------------------------------------------
+
+PID : 19068
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 8.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 19312
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 4.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 19512
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 3.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 19556
+Name : pet.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 18.00
+Files Opened : 3
+------------------------------------------------------------
+
+PID : 19788
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 3.91
+Thread Count : 14.00
+Files Opened : 14
+------------------------------------------------------------
+
+PID : 19864
+Name : LenovoVantage-(SmartNoiseCancelledAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 13.00
+Files Opened : 17
+------------------------------------------------------------
+
+PID : 19880
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.73
+Thread Count : 30.00
+Files Opened : 35
+------------------------------------------------------------
+
+PID : 19892
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.19
+Thread Count : 25.00
+Files Opened : 20
+------------------------------------------------------------
+
+PID : 20040
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 3.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 20080
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.65
+Thread Count : 27.00
+Files Opened : 8
+------------------------------------------------------------
+
+PID : 20212
+Name : LenovoVantage-(GenericMessagingAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 10.00
+Files Opened : 36
+------------------------------------------------------------
+
+PID : 20232
+Name : OneDrive.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.90
+Memory % : 1.01
+Thread Count : 39.00
+Files Opened : 50
+------------------------------------------------------------
+
+PID : 20320
+Name : LenovoVantage.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 45.00
+Files Opened : 136
+------------------------------------------------------------
+
+PID : 20424
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.54
+Thread Count : 27.00
+Files Opened : 35
+------------------------------------------------------------
+
+PID : 20568
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.21
+Thread Count : 14.00
+Files Opened : 10
+------------------------------------------------------------
+
+PID : 20612
+Name : BatteryWidgetHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.28
+Thread Count : 16.00
+Files Opened : 36
+------------------------------------------------------------
+
+PID : 20888
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 2.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 21140
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 11.00
+Files Opened : 17
+------------------------------------------------------------
+
+PID : 21304
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.50
+Thread Count : 28.00
+Files Opened : 10
+------------------------------------------------------------
+
+PID : 21352
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 5.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 21768
+Name : WhatsApp.Root.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.20
+Memory % : 1.28
+Thread Count : 31.00
+Files Opened : 105
+------------------------------------------------------------
+
+PID : 21848
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 8.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 22064
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.22
+Thread Count : 22.00
+Files Opened : 11
+------------------------------------------------------------
+
+PID : 22224
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 10.00
+Files Opened : 16
+------------------------------------------------------------
+
+PID : 22392
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.20
+Memory % : 0.35
+Thread Count : 24.00
+Files Opened : 22
+------------------------------------------------------------
+
+PID : 23036
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 2.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 23432
+Name : M365Copilot.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.68
+Thread Count : 43.00
+Files Opened : 19
+------------------------------------------------------------
+
+PID : 23524
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.30
+Memory % : 2.33
+Thread Count : 30.00
+Files Opened : 62
+------------------------------------------------------------
+
+PID : 23672
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 8.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 23944
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 21.00
+Files Opened : 5
+------------------------------------------------------------
+
+PID : 23976
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 22.00
+Files Opened : 19
+------------------------------------------------------------
+
+PID : 24016
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count : 10.00
+Files Opened : 21
+------------------------------------------------------------
+
+PID : 24208
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count : 30.00
+Files Opened : 35
+------------------------------------------------------------
+
+PID : 24636
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.37
+Thread Count : 23.00
+Files Opened : 23
+------------------------------------------------------------
+
+PID : 25008
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count : 1.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 25016
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count : 1.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 25024
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 3.00
+Files Opened : 4
+------------------------------------------------------------
+
+PID : 25060
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 3.00
+Files Opened : 4
+------------------------------------------------------------
+
+PID : 25100
+Name : browserhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 46.00
+Files Opened : 0
+------------------------------------------------------------
+
+PID : 25120
+Name : mc-extn-browserhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 45.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 25376
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count : 2.00
+Files Opened : 2
+------------------------------------------------------------
+
+PID : 25800
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count : 1.00
+Files Opened : 1
+------------------------------------------------------------
+
+PID : 26012
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 10.00
+Files Opened : 7
+------------------------------------------------------------
+
+PID : 26020
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count : 11.00
+Files Opened : 9
+------------------------------------------------------------
+
+PID : 27204
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 19.00
+Files Opened : 23
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+---------------------End of Log File------------------------
+------------------------------------------------------------
