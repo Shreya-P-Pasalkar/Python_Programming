@@ -1,0 +1,1803 @@
+------------------------------------------------------------
+----------Marvellous Platform Surveillance System-----------
+Log created at : Tue Mar  3 17:36:44 2026
+------------------------------------------------------------
+
+----------------------System Report-------------------------
+CPU Usage : 1.3 %
+------------------------------------------------------------
+RAM Usage : 55.6 %
+------------------------------------------------------------
+Disk Usage Report 
+C:\ -> 34.8 % used
+D:\ -> 0.1 % used
+------------------------------------------------------------
+Network Usage Report
+Sent : 27.26 MB
+Receive : 716.09 MB
+PID : 0
+Name : System Idle Process
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : NA
+CPU % : 1415.50
+Memory % : 0.00
+Thread Count : 48.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 8192.00 MB
+VMS - Virtual Memory used : 61440.00 MB
+------------------------------------------------------------
+
+PID : 4
+Name : System
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : NA
+CPU % : 5.90
+Memory % : 0.06
+Thread Count : 330.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 9900032.00 MB
+VMS - Virtual Memory used : 61440.00 MB
+------------------------------------------------------------
+
+PID : 1208
+Name : LenovoVantage-(BatteryWidgetAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 9.00
+Number of Files Opened : 15
+RSS - Resident Set Size : 6529024.00 MB
+VMS - Virtual Memory used : 30470144.00 MB
+------------------------------------------------------------
+
+PID : 1280
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 29.80
+Memory % : 2.04
+Thread Count : 29.00
+Number of Files Opened : 53
+RSS - Resident Set Size : 342597632.00 MB
+VMS - Virtual Memory used : 362008576.00 MB
+------------------------------------------------------------
+
+PID : 2176
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count : 4.00
+Number of Files Opened : 3
+RSS - Resident Set Size : 32546816.00 MB
+VMS - Virtual Memory used : 5148672.00 MB
+------------------------------------------------------------
+
+PID : 2492
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count : 21.00
+Number of Files Opened : 18
+RSS - Resident Set Size : 2760704.00 MB
+VMS - Virtual Memory used : 12865536.00 MB
+------------------------------------------------------------
+
+PID : 2740
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 2.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 10780672.00 MB
+VMS - Virtual Memory used : 1466368.00 MB
+------------------------------------------------------------
+
+PID : 3152
+Name : SecurityHealthSystray.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count : 1.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 13438976.00 MB
+VMS - Virtual Memory used : 2031616.00 MB
+------------------------------------------------------------
+
+PID : 3296
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.38
+Thread Count : 28.00
+Number of Files Opened : 33
+RSS - Resident Set Size : 63442944.00 MB
+VMS - Virtual Memory used : 41091072.00 MB
+------------------------------------------------------------
+
+PID : 3424
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 9.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 10080256.00 MB
+VMS - Virtual Memory used : 2658304.00 MB
+------------------------------------------------------------
+
+PID : 3468
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count : 25.00
+Number of Files Opened : 19
+RSS - Resident Set Size : 32071680.00 MB
+VMS - Virtual Memory used : 13430784.00 MB
+------------------------------------------------------------
+
+PID : 3524
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 20.00
+Number of Files Opened : 21
+RSS - Resident Set Size : 0.00 MB
+VMS - Virtual Memory used : 20455424.00 MB
+------------------------------------------------------------
+
+PID : 3904
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 10.00
+Number of Files Opened : 12
+RSS - Resident Set Size : 7675904.00 MB
+VMS - Virtual Memory used : 9076736.00 MB
+------------------------------------------------------------
+
+PID : 3992
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 8.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 9232384.00 MB
+VMS - Virtual Memory used : 2564096.00 MB
+------------------------------------------------------------
+
+PID : 4012
+Name : AppVShNotify.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 1.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 11145216.00 MB
+VMS - Virtual Memory used : 2023424.00 MB
+------------------------------------------------------------
+
+PID : 4072
+Name : WindowsTerminal.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 1.80
+Memory % : 0.52
+Thread Count : 10.00
+Number of Files Opened : 10
+RSS - Resident Set Size : 88211456.00 MB
+VMS - Virtual Memory used : 101912576.00 MB
+------------------------------------------------------------
+
+PID : 5568
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.35
+Thread Count : 7.00
+Number of Files Opened : 3
+RSS - Resident Set Size : 59322368.00 MB
+VMS - Virtual Memory used : 23470080.00 MB
+------------------------------------------------------------
+
+PID : 5680
+Name : IGCCTray.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.42
+Thread Count : 8.00
+Number of Files Opened : 32
+RSS - Resident Set Size : 70938624.00 MB
+VMS - Virtual Memory used : 49422336.00 MB
+------------------------------------------------------------
+
+PID : 6004
+Name : sihost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.32
+Thread Count : 12.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 53170176.00 MB
+VMS - Virtual Memory used : 8400896.00 MB
+------------------------------------------------------------
+
+PID : 6116
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.64
+Thread Count : 27.00
+Number of Files Opened : 9
+RSS - Resident Set Size : 107606016.00 MB
+VMS - Virtual Memory used : 100167680.00 MB
+------------------------------------------------------------
+
+PID : 6600
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.70
+Thread Count : 31.00
+Number of Files Opened : 33
+RSS - Resident Set Size : 118317056.00 MB
+VMS - Virtual Memory used : 101539840.00 MB
+------------------------------------------------------------
+
+PID : 6624
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.40
+Memory % : 1.73
+Thread Count : 30.00
+Number of Files Opened : 62
+RSS - Resident Set Size : 290373632.00 MB
+VMS - Virtual Memory used : 274669568.00 MB
+------------------------------------------------------------
+
+PID : 6700
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.50
+Memory % : 1.48
+Thread Count : 46.00
+Number of Files Opened : 155
+RSS - Resident Set Size : 248578048.00 MB
+VMS - Virtual Memory used : 139198464.00 MB
+------------------------------------------------------------
+
+PID : 7980
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count : 8.00
+Number of Files Opened : 8
+RSS - Resident Set Size : 32194560.00 MB
+VMS - Virtual Memory used : 12005376.00 MB
+------------------------------------------------------------
+
+PID : 8196
+Name : SystemSettings.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 44.00
+Number of Files Opened : 22
+RSS - Resident Set Size : 6930432.00 MB
+VMS - Virtual Memory used : 141828096.00 MB
+------------------------------------------------------------
+
+PID : 8232
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 1.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 6463488.00 MB
+VMS - Virtual Memory used : 2334720.00 MB
+------------------------------------------------------------
+
+PID : 8364
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 2.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 14622720.00 MB
+VMS - Virtual Memory used : 2506752.00 MB
+------------------------------------------------------------
+
+PID : 8620
+Name : EllipticHPDDaemon.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 2.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 7835648.00 MB
+VMS - Virtual Memory used : 1306624.00 MB
+------------------------------------------------------------
+
+PID : 9184
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 18.00
+Number of Files Opened : 5
+RSS - Resident Set Size : 15560704.00 MB
+VMS - Virtual Memory used : 51871744.00 MB
+------------------------------------------------------------
+
+PID : 9212
+Name : OpenConsole.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 2.50
+Memory % : 0.12
+Thread Count : 5.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 20439040.00 MB
+VMS - Virtual Memory used : 3420160.00 MB
+------------------------------------------------------------
+
+PID : 9224
+Name : Widgets.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count : 12.00
+Number of Files Opened : 14
+RSS - Resident Set Size : 61272064.00 MB
+VMS - Virtual Memory used : 11403264.00 MB
+------------------------------------------------------------
+
+PID : 9468
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.78
+Thread Count : 22.00
+Number of Files Opened : 3
+RSS - Resident Set Size : 299134976.00 MB
+VMS - Virtual Memory used : 351289344.00 MB
+------------------------------------------------------------
+
+PID : 9548
+Name : Copilot.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.10
+Thread Count : 27.00
+Number of Files Opened : 157
+RSS - Resident Set Size : 185393152.00 MB
+VMS - Virtual Memory used : 84946944.00 MB
+------------------------------------------------------------
+
+PID : 10384
+Name : ApplicationFrameHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.27
+Thread Count : 5.00
+Number of Files Opened : 7
+RSS - Resident Set Size : 44937216.00 MB
+VMS - Virtual Memory used : 60952576.00 MB
+------------------------------------------------------------
+
+PID : 10428
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count : 3.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 1880064.00 MB
+VMS - Virtual Memory used : 3289088.00 MB
+------------------------------------------------------------
+
+PID : 10504
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 2.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 11370496.00 MB
+VMS - Virtual Memory used : 2269184.00 MB
+------------------------------------------------------------
+
+PID : 10560
+Name : Win32Controller.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 4.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 11509760.00 MB
+VMS - Virtual Memory used : 1982464.00 MB
+------------------------------------------------------------
+
+PID : 11012
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 2.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 7524352.00 MB
+VMS - Virtual Memory used : 1216512.00 MB
+------------------------------------------------------------
+
+PID : 11088
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 2.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 7626752.00 MB
+VMS - Virtual Memory used : 1331200.00 MB
+------------------------------------------------------------
+
+PID : 11112
+Name : OneDrive.Sync.Service.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 15.00
+Number of Files Opened : 20
+RSS - Resident Set Size : 11071488.00 MB
+VMS - Virtual Memory used : 43876352.00 MB
+------------------------------------------------------------
+
+PID : 11156
+Name : ipf_helper.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.05
+Thread Count : 4.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 9211904.00 MB
+VMS - Virtual Memory used : 1810432.00 MB
+------------------------------------------------------------
+
+PID : 11200
+Name : uihost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.22
+Thread Count : 65.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 36356096.00 MB
+VMS - Virtual Memory used : 17727488.00 MB
+------------------------------------------------------------
+
+PID : 11336
+Name : AppActions.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.29
+Thread Count : 7.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 48115712.00 MB
+VMS - Virtual Memory used : 13148160.00 MB
+------------------------------------------------------------
+
+PID : 11392
+Name : explorer.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 13.30
+Memory % : 2.24
+Thread Count : 103.00
+Number of Files Opened : 78
+RSS - Resident Set Size : 377602048.00 MB
+VMS - Virtual Memory used : 376827904.00 MB
+------------------------------------------------------------
+
+PID : 11460
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count : 5.00
+Number of Files Opened : 8
+RSS - Resident Set Size : 43085824.00 MB
+VMS - Virtual Memory used : 9056256.00 MB
+------------------------------------------------------------
+
+PID : 11640
+Name : taskhostw.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.15
+Thread Count : 9.00
+Number of Files Opened : 8
+RSS - Resident Set Size : 25653248.00 MB
+VMS - Virtual Memory used : 9502720.00 MB
+------------------------------------------------------------
+
+PID : 11728
+Name : FnHotkeyUtility.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count : 16.00
+Number of Files Opened : 14
+RSS - Resident Set Size : 43614208.00 MB
+VMS - Virtual Memory used : 60227584.00 MB
+------------------------------------------------------------
+
+PID : 11752
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 21.00
+Number of Files Opened : 21
+RSS - Resident Set Size : 0.00 MB
+VMS - Virtual Memory used : 21594112.00 MB
+------------------------------------------------------------
+
+PID : 11756
+Name : WidgetService.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.15
+Thread Count : 5.00
+Number of Files Opened : 9
+RSS - Resident Set Size : 24719360.00 MB
+VMS - Virtual Memory used : 5341184.00 MB
+------------------------------------------------------------
+
+PID : 11764
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.30
+Memory % : 0.03
+Thread Count : 28.00
+Number of Files Opened : 38
+RSS - Resident Set Size : 5128192.00 MB
+VMS - Virtual Memory used : 72331264.00 MB
+------------------------------------------------------------
+
+PID : 11864
+Name : python.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 86.60
+Memory % : 0.15
+Thread Count : 4.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 25030656.00 MB
+VMS - Virtual Memory used : 15425536.00 MB
+------------------------------------------------------------
+
+PID : 11964
+Name : ONENOTEM.EXE
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count : 2.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 3612672.00 MB
+VMS - Virtual Memory used : 18079744.00 MB
+------------------------------------------------------------
+
+PID : 12248
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.18
+Thread Count : 13.00
+Number of Files Opened : 10
+RSS - Resident Set Size : 30715904.00 MB
+VMS - Virtual Memory used : 15482880.00 MB
+------------------------------------------------------------
+
+PID : 12348
+Name : ShellHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count : 7.00
+Number of Files Opened : 5
+RSS - Resident Set Size : 50012160.00 MB
+VMS - Virtual Memory used : 39624704.00 MB
+------------------------------------------------------------
+
+PID : 12880
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 23.00
+Number of Files Opened : 5
+RSS - Resident Set Size : 622592.00 MB
+VMS - Virtual Memory used : 90222592.00 MB
+------------------------------------------------------------
+
+PID : 12920
+Name : CrossDeviceResume.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count : 6.00
+Number of Files Opened : 6
+RSS - Resident Set Size : 59834368.00 MB
+VMS - Virtual Memory used : 41775104.00 MB
+------------------------------------------------------------
+
+PID : 13408
+Name : unsecapp.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 3.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 10633216.00 MB
+VMS - Virtual Memory used : 1814528.00 MB
+------------------------------------------------------------
+
+PID : 13572
+Name : CrossDeviceService.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.54
+Thread Count : 12.00
+Number of Files Opened : 123
+RSS - Resident Set Size : 90046464.00 MB
+VMS - Virtual Memory used : 26935296.00 MB
+------------------------------------------------------------
+
+PID : 13584
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.58
+Thread Count : 8.00
+Number of Files Opened : 5
+RSS - Resident Set Size : 97607680.00 MB
+VMS - Virtual Memory used : 60735488.00 MB
+------------------------------------------------------------
+
+PID : 13776
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count : 2.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 14213120.00 MB
+VMS - Virtual Memory used : 2498560.00 MB
+------------------------------------------------------------
+
+PID : 13960
+Name : SearchHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.81
+Thread Count : 12.00
+Number of Files Opened : 27
+RSS - Resident Set Size : 136695808.00 MB
+VMS - Virtual Memory used : 84217856.00 MB
+------------------------------------------------------------
+
+PID : 14004
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.30
+Memory % : 0.94
+Thread Count : 19.00
+Number of Files Opened : 5
+RSS - Resident Set Size : 158560256.00 MB
+VMS - Virtual Memory used : 162975744.00 MB
+------------------------------------------------------------
+
+PID : 14036
+Name : UserOOBEBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count : 1.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 11280384.00 MB
+VMS - Virtual Memory used : 2007040.00 MB
+------------------------------------------------------------
+
+PID : 14092
+Name : StartMenuExperienceHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.78
+Thread Count : 17.00
+Number of Files Opened : 22
+RSS - Resident Set Size : 130813952.00 MB
+VMS - Virtual Memory used : 98267136.00 MB
+------------------------------------------------------------
+
+PID : 14200
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count : 8.00
+Number of Files Opened : 4
+RSS - Resident Set Size : 26095616.00 MB
+VMS - Virtual Memory used : 3891200.00 MB
+------------------------------------------------------------
+
+PID : 14372
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.43
+Thread Count : 15.00
+Number of Files Opened : 15
+RSS - Resident Set Size : 72183808.00 MB
+VMS - Virtual Memory used : 20430848.00 MB
+------------------------------------------------------------
+
+PID : 14416
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count : 19.00
+Number of Files Opened : 16
+RSS - Resident Set Size : 51236864.00 MB
+VMS - Virtual Memory used : 14872576.00 MB
+------------------------------------------------------------
+
+PID : 14424
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count : 2.00
+Number of Files Opened : 10
+RSS - Resident Set Size : 26161152.00 MB
+VMS - Virtual Memory used : 4280320.00 MB
+------------------------------------------------------------
+
+PID : 14480
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 1.42
+Thread Count : 29.00
+Number of Files Opened : 41
+RSS - Resident Set Size : 239497216.00 MB
+VMS - Virtual Memory used : 166387712.00 MB
+------------------------------------------------------------
+
+PID : 14676
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.40
+Thread Count : 22.00
+Number of Files Opened : 23
+RSS - Resident Set Size : 67670016.00 MB
+VMS - Virtual Memory used : 30793728.00 MB
+------------------------------------------------------------
+
+PID : 15136
+Name : ShellExperienceHost.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.50
+Thread Count : 20.00
+Number of Files Opened : 9
+RSS - Resident Set Size : 84332544.00 MB
+VMS - Virtual Memory used : 49569792.00 MB
+------------------------------------------------------------
+
+PID : 15552
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 4.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 17965056.00 MB
+VMS - Virtual Memory used : 2678784.00 MB
+------------------------------------------------------------
+
+PID : 15848
+Name : MessagingPlugin.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.20
+Memory % : 0.23
+Thread Count : 14.00
+Number of Files Opened : 9
+RSS - Resident Set Size : 38879232.00 MB
+VMS - Virtual Memory used : 50724864.00 MB
+------------------------------------------------------------
+
+PID : 15972
+Name : OpenConsole.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 6.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 20099072.00 MB
+VMS - Virtual Memory used : 3551232.00 MB
+------------------------------------------------------------
+
+PID : 16052
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 7.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 9056256.00 MB
+VMS - Virtual Memory used : 2572288.00 MB
+------------------------------------------------------------
+
+PID : 16420
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 5.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 8445952.00 MB
+VMS - Virtual Memory used : 1441792.00 MB
+------------------------------------------------------------
+
+PID : 16548
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.35
+Thread Count : 21.00
+Number of Files Opened : 5
+RSS - Resident Set Size : 58445824.00 MB
+VMS - Virtual Memory used : 81899520.00 MB
+------------------------------------------------------------
+
+PID : 16580
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.25
+Thread Count : 22.00
+Number of Files Opened : 19
+RSS - Resident Set Size : 42258432.00 MB
+VMS - Virtual Memory used : 13918208.00 MB
+------------------------------------------------------------
+
+PID : 16868
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 10.00
+Number of Files Opened : 17
+RSS - Resident Set Size : 20086784.00 MB
+VMS - Virtual Memory used : 10342400.00 MB
+------------------------------------------------------------
+
+PID : 16928
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.47
+Thread Count : 30.00
+Number of Files Opened : 34
+RSS - Resident Set Size : 79831040.00 MB
+VMS - Virtual Memory used : 72544256.00 MB
+------------------------------------------------------------
+
+PID : 17492
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.62
+Thread Count : 25.00
+Number of Files Opened : 7
+RSS - Resident Set Size : 104624128.00 MB
+VMS - Virtual Memory used : 90963968.00 MB
+------------------------------------------------------------
+
+PID : 17508
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.96
+Thread Count : 52.00
+Number of Files Opened : 74
+RSS - Resident Set Size : 161742848.00 MB
+VMS - Virtual Memory used : 135122944.00 MB
+------------------------------------------------------------
+
+PID : 17528
+Name : PhoneExperienceHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.04
+Thread Count : 21.00
+Number of Files Opened : 160
+RSS - Resident Set Size : 175452160.00 MB
+VMS - Virtual Memory used : 88150016.00 MB
+------------------------------------------------------------
+
+PID : 18032
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.20
+Thread Count : 7.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 32813056.00 MB
+VMS - Virtual Memory used : 11038720.00 MB
+------------------------------------------------------------
+
+PID : 18080
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count : 14.00
+Number of Files Opened : 24
+RSS - Resident Set Size : 2461696.00 MB
+VMS - Virtual Memory used : 19308544.00 MB
+------------------------------------------------------------
+
+PID : 18240
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 9.00
+Number of Files Opened : 14
+RSS - Resident Set Size : 0.00 MB
+VMS - Virtual Memory used : 9154560.00 MB
+------------------------------------------------------------
+
+PID : 18312
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 2.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 10768384.00 MB
+VMS - Virtual Memory used : 1474560.00 MB
+------------------------------------------------------------
+
+PID : 18344
+Name : FileCoAuth.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.20
+Thread Count : 7.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 33419264.00 MB
+VMS - Virtual Memory used : 11718656.00 MB
+------------------------------------------------------------
+
+PID : 18560
+Name : RtkAudUService64.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 11.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 19144704.00 MB
+VMS - Virtual Memory used : 15470592.00 MB
+------------------------------------------------------------
+
+PID : 18788
+Name : powershell.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.32
+Thread Count : 9.00
+Number of Files Opened : 12
+RSS - Resident Set Size : 53243904.00 MB
+VMS - Virtual Memory used : 58814464.00 MB
+------------------------------------------------------------
+
+PID : 19020
+Name : IGCC.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 9.00
+Number of Files Opened : 8
+RSS - Resident Set Size : 18169856.00 MB
+VMS - Virtual Memory used : 45969408.00 MB
+------------------------------------------------------------
+
+PID : 19068
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 7.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 0.00 MB
+VMS - Virtual Memory used : 2547712.00 MB
+------------------------------------------------------------
+
+PID : 19312
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 3.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 14569472.00 MB
+VMS - Virtual Memory used : 1957888.00 MB
+------------------------------------------------------------
+
+PID : 19512
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 2.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 7446528.00 MB
+VMS - Virtual Memory used : 1212416.00 MB
+------------------------------------------------------------
+
+PID : 19556
+Name : pet.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 17.00
+Number of Files Opened : 3
+RSS - Resident Set Size : 9080832.00 MB
+VMS - Virtual Memory used : 3858432.00 MB
+------------------------------------------------------------
+
+PID : 19788
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 3.52
+Thread Count : 13.00
+Number of Files Opened : 14
+RSS - Resident Set Size : 591597568.00 MB
+VMS - Virtual Memory used : 675975168.00 MB
+------------------------------------------------------------
+
+PID : 19864
+Name : LenovoVantage-(SmartNoiseCancelledAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 14.00
+Number of Files Opened : 17
+RSS - Resident Set Size : 7565312.00 MB
+VMS - Virtual Memory used : 32903168.00 MB
+------------------------------------------------------------
+
+PID : 19880
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.65
+Thread Count : 29.00
+Number of Files Opened : 35
+RSS - Resident Set Size : 109486080.00 MB
+VMS - Virtual Memory used : 60604416.00 MB
+------------------------------------------------------------
+
+PID : 19892
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 1.26
+Thread Count : 26.00
+Number of Files Opened : 20
+RSS - Resident Set Size : 211726336.00 MB
+VMS - Virtual Memory used : 235196416.00 MB
+------------------------------------------------------------
+
+PID : 20040
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 2.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 15953920.00 MB
+VMS - Virtual Memory used : 3051520.00 MB
+------------------------------------------------------------
+
+PID : 20080
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 0.65
+Thread Count : 26.00
+Number of Files Opened : 8
+RSS - Resident Set Size : 109105152.00 MB
+VMS - Virtual Memory used : 91803648.00 MB
+------------------------------------------------------------
+
+PID : 20212
+Name : LenovoVantage-(GenericMessagingAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 9.00
+Number of Files Opened : 36
+RSS - Resident Set Size : 6832128.00 MB
+VMS - Virtual Memory used : 27029504.00 MB
+------------------------------------------------------------
+
+PID : 20232
+Name : OneDrive.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 1.30
+Memory % : 1.02
+Thread Count : 36.00
+Number of Files Opened : 51
+RSS - Resident Set Size : 171712512.00 MB
+VMS - Virtual Memory used : 151621632.00 MB
+------------------------------------------------------------
+
+PID : 20320
+Name : LenovoVantage.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count : 43.00
+Number of Files Opened : 136
+RSS - Resident Set Size : 1187840.00 MB
+VMS - Virtual Memory used : 142532608.00 MB
+------------------------------------------------------------
+
+PID : 20424
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.44
+Thread Count : 27.00
+Number of Files Opened : 35
+RSS - Resident Set Size : 73322496.00 MB
+VMS - Virtual Memory used : 45707264.00 MB
+------------------------------------------------------------
+
+PID : 20612
+Name : BatteryWidgetHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.28
+Thread Count : 16.00
+Number of Files Opened : 36
+RSS - Resident Set Size : 46829568.00 MB
+VMS - Virtual Memory used : 47669248.00 MB
+------------------------------------------------------------
+
+PID : 20888
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count : 2.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 7655424.00 MB
+VMS - Virtual Memory used : 1183744.00 MB
+------------------------------------------------------------
+
+PID : 21140
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 11.00
+Number of Files Opened : 17
+RSS - Resident Set Size : 20795392.00 MB
+VMS - Virtual Memory used : 11083776.00 MB
+------------------------------------------------------------
+
+PID : 21304
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.48
+Thread Count : 28.00
+Number of Files Opened : 10
+RSS - Resident Set Size : 81383424.00 MB
+VMS - Virtual Memory used : 74096640.00 MB
+------------------------------------------------------------
+
+PID : 21352
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count : 5.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 0.00 MB
+VMS - Virtual Memory used : 8302592.00 MB
+------------------------------------------------------------
+
+PID : 21768
+Name : WhatsApp.Root.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.10
+Memory % : 1.23
+Thread Count : 32.00
+Number of Files Opened : 105
+RSS - Resident Set Size : 206200832.00 MB
+VMS - Virtual Memory used : 105693184.00 MB
+------------------------------------------------------------
+
+PID : 21848
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 7.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 9445376.00 MB
+VMS - Virtual Memory used : 2527232.00 MB
+------------------------------------------------------------
+
+PID : 22064
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.22
+Thread Count : 21.00
+Number of Files Opened : 11
+RSS - Resident Set Size : 36610048.00 MB
+VMS - Virtual Memory used : 13381632.00 MB
+------------------------------------------------------------
+
+PID : 22224
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 9.00
+Number of Files Opened : 16
+RSS - Resident Set Size : 19562496.00 MB
+VMS - Virtual Memory used : 9150464.00 MB
+------------------------------------------------------------
+
+PID : 22392
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.20
+Memory % : 0.35
+Thread Count : 23.00
+Number of Files Opened : 22
+RSS - Resident Set Size : 59711488.00 MB
+VMS - Virtual Memory used : 26513408.00 MB
+------------------------------------------------------------
+
+PID : 23036
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 2.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 14573568.00 MB
+VMS - Virtual Memory used : 2428928.00 MB
+------------------------------------------------------------
+
+PID : 23432
+Name : M365Copilot.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.67
+Thread Count : 41.00
+Number of Files Opened : 19
+RSS - Resident Set Size : 112988160.00 MB
+VMS - Virtual Memory used : 82825216.00 MB
+------------------------------------------------------------
+
+PID : 23524
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 4.30
+Memory % : 2.19
+Thread Count : 29.00
+Number of Files Opened : 63
+RSS - Resident Set Size : 368906240.00 MB
+VMS - Virtual Memory used : 338333696.00 MB
+------------------------------------------------------------
+
+PID : 23564
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 19.00
+Number of Files Opened : 23
+RSS - Resident Set Size : 51859456.00 MB
+VMS - Virtual Memory used : 19390464.00 MB
+------------------------------------------------------------
+
+PID : 23672
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 7.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 9453568.00 MB
+VMS - Virtual Memory used : 2547712.00 MB
+------------------------------------------------------------
+
+PID : 23944
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 21.00
+Number of Files Opened : 5
+RSS - Resident Set Size : 6615040.00 MB
+VMS - Virtual Memory used : 94461952.00 MB
+------------------------------------------------------------
+
+PID : 23976
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count : 21.00
+Number of Files Opened : 19
+RSS - Resident Set Size : 6897664.00 MB
+VMS - Virtual Memory used : 13721600.00 MB
+------------------------------------------------------------
+
+PID : 24016
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count : 9.00
+Number of Files Opened : 21
+RSS - Resident Set Size : 1941504.00 MB
+VMS - Virtual Memory used : 9314304.00 MB
+------------------------------------------------------------
+
+PID : 24208
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count : 29.00
+Number of Files Opened : 35
+RSS - Resident Set Size : 2818048.00 MB
+VMS - Virtual Memory used : 202285056.00 MB
+------------------------------------------------------------
+
+PID : 24636
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.37
+Thread Count : 23.00
+Number of Files Opened : 23
+RSS - Resident Set Size : 62578688.00 MB
+VMS - Virtual Memory used : 28692480.00 MB
+------------------------------------------------------------
+
+PID : 25008
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count : 1.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 4505600.00 MB
+VMS - Virtual Memory used : 1978368.00 MB
+------------------------------------------------------------
+
+PID : 25016
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count : 1.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 4481024.00 MB
+VMS - Virtual Memory used : 2035712.00 MB
+------------------------------------------------------------
+
+PID : 25024
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 3.00
+Number of Files Opened : 4
+RSS - Resident Set Size : 10084352.00 MB
+VMS - Virtual Memory used : 1773568.00 MB
+------------------------------------------------------------
+
+PID : 25060
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count : 3.00
+Number of Files Opened : 4
+RSS - Resident Set Size : 10178560.00 MB
+VMS - Virtual Memory used : 1781760.00 MB
+------------------------------------------------------------
+
+PID : 25100
+Name : browserhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count : 46.00
+Number of Files Opened : 0
+RSS - Resident Set Size : 14479360.00 MB
+VMS - Virtual Memory used : 6705152.00 MB
+------------------------------------------------------------
+
+PID : 25120
+Name : mc-extn-browserhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count : 45.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 17944576.00 MB
+VMS - Virtual Memory used : 7376896.00 MB
+------------------------------------------------------------
+
+PID : 25376
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count : 4.00
+Number of Files Opened : 2
+RSS - Resident Set Size : 26312704.00 MB
+VMS - Virtual Memory used : 3440640.00 MB
+------------------------------------------------------------
+
+PID : 25800
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count : 1.00
+Number of Files Opened : 1
+RSS - Resident Set Size : 5758976.00 MB
+VMS - Virtual Memory used : 2072576.00 MB
+------------------------------------------------------------
+
+PID : 26012
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count : 10.00
+Number of Files Opened : 7
+RSS - Resident Set Size : 20705280.00 MB
+VMS - Virtual Memory used : 9191424.00 MB
+------------------------------------------------------------
+
+PID : 26020
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count : 11.00
+Number of Files Opened : 9
+RSS - Resident Set Size : 43216896.00 MB
+VMS - Virtual Memory used : 40124416.00 MB
+------------------------------------------------------------
+
+PID : 26640
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count : 18.00
+Number of Files Opened : 23
+RSS - Resident Set Size : 52137984.00 MB
+VMS - Virtual Memory used : 19283968.00 MB
+------------------------------------------------------------
+
+PID : 27204
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.29
+Thread Count : 21.00
+Number of Files Opened : 23
+RSS - Resident Set Size : 48369664.00 MB
+VMS - Virtual Memory used : 19533824.00 MB
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+---------------------End of Log File------------------------
+------------------------------------------------------------

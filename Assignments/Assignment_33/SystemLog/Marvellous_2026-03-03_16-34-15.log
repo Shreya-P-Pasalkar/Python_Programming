@@ -1,0 +1,2972 @@
+------------------------------------------------------------
+----------Marvellous Platform Surveillance System-----------
+Log created at : Tue Mar  3 16:34:15 2026
+------------------------------------------------------------
+
+----------------------System Report-------------------------
+CPU Usage : 1.8 %
+------------------------------------------------------------
+RAM Usage : 58.0 %
+------------------------------------------------------------
+Disk Usage Report 
+C:\ -> 34.5 % used
+D:\ -> 0.1 % used
+------------------------------------------------------------
+Network Usage Report
+Sent : 16.08 MB
+Receive : 697.88 MB
+PID : 0
+Name : System Idle Process
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : NA
+CPU % : 1465.50
+Memory % : 0.00
+Thread Count % : 48.00
+------------------------------------------------------------
+
+PID : 4
+Name : System
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : NA
+CPU % : 2.90
+Memory % : 0.06
+Thread Count % : 338.00
+------------------------------------------------------------
+
+PID : 236
+Name : 
+UserName : None
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.40
+Thread Count % : 0.00
+------------------------------------------------------------
+
+PID : 280
+Name : Registry
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.35
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 840
+Name : smss.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 1088
+Name : WmiPrvSE.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.18
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 1100
+Name : csrss.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 14.00
+------------------------------------------------------------
+
+PID : 1104
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 1120
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 1188
+Name : wininit.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 1196
+Name : csrss.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 1208
+Name : LenovoVantage-(BatteryWidgetAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 1264
+Name : winlogon.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 1280
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 10.00
+Memory % : 1.82
+Thread Count % : 28.00
+------------------------------------------------------------
+
+PID : 1340
+Name : services.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 1360
+Name : LsaIso.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 1368
+Name : lsass.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.20
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 1380
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 1408
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 1496
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.28
+Thread Count % : 20.00
+------------------------------------------------------------
+
+PID : 1528
+Name : fontdrvhost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 1536
+Name : fontdrvhost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 1640
+Name : WUDFCompanionHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 1648
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 1.10
+Memory % : 0.13
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 1704
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 1764
+Name : dwm.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 4.30
+Memory % : 0.82
+Thread Count % : 18.00
+------------------------------------------------------------
+
+PID : 1912
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 1928
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 1936
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 12.00
+------------------------------------------------------------
+
+PID : 2028
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 2072
+Name : IntelCpHDCPSvc.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 2088
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 2152
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 2164
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 2176
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.20
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 2192
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.14
+Thread Count % : 18.00
+------------------------------------------------------------
+
+PID : 2212
+Name : MemCompression
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 3.43
+Thread Count % : 50.00
+------------------------------------------------------------
+
+PID : 2368
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 2492
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 21.00
+------------------------------------------------------------
+
+PID : 2616
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 2656
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.14
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 2740
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 2748
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 2756
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 2792
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 2872
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.14
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 2928
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 2936
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 2944
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 3132
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 3148
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 3152
+Name : SecurityHealthSystray.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 3164
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 3184
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 3224
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 3232
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 3296
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.40
+Thread Count % : 28.00
+------------------------------------------------------------
+
+PID : 3344
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.15
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 3404
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 3420
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 3424
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 3456
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 3468
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 25.00
+------------------------------------------------------------
+
+PID : 3512
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 3524
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count % : 20.00
+------------------------------------------------------------
+
+PID : 3560
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.18
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 3668
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.70
+Memory % : 0.15
+Thread Count % : 14.00
+------------------------------------------------------------
+
+PID : 3720
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 3820
+Name : NgcIso.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 3872
+Name : spoolsv.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.25
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 3904
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 3936
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count % : 16.00
+------------------------------------------------------------
+
+PID : 3952
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 55.00
+------------------------------------------------------------
+
+PID : 3992
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 4012
+Name : AppVShNotify.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 4072
+Name : WindowsTerminal.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.70
+Memory % : 0.93
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 4092
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 4152
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 4232
+Name : ElevocControlService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 4244
+Name : EllipticHPDService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 22.00
+------------------------------------------------------------
+
+PID : 4252
+Name : OneApp.IGCC.WinService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.28
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 4268
+Name : DAX3API.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.13
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 4276
+Name : ipfsvc.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 4288
+Name : IntelAudioService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 4300
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count % : 12.00
+------------------------------------------------------------
+
+PID : 4320
+Name : ipf_uf.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 4332
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.22
+Thread Count % : 17.00
+------------------------------------------------------------
+
+PID : 4352
+Name : Lenovo.Modern.ImController.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.29
+Thread Count % : 23.00
+------------------------------------------------------------
+
+PID : 4360
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 4380
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 4396
+Name : LenovoUtilityService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 4456
+Name : jhi_service.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 4592
+Name : SensorFusionService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 4628
+Name : mc-fw-host.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 4.20
+Memory % : 1.04
+Thread Count % : 166.00
+------------------------------------------------------------
+
+PID : 4660
+Name : LNBITSSvc.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.13
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 4668
+Name : MpDefenderCoreService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 4780
+Name : servicehost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.24
+Thread Count % : 83.00
+------------------------------------------------------------
+
+PID : 4788
+Name : RtkAudUService64.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 4796
+Name : LenovoVantageService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.46
+Thread Count % : 36.00
+------------------------------------------------------------
+
+PID : 4844
+Name : ReadyForService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 4960
+Name : UDClientService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.60
+Memory % : 0.32
+Thread Count % : 46.00
+------------------------------------------------------------
+
+PID : 4968
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 4976
+Name : WMIRegistrationService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 4984
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 24.00
+------------------------------------------------------------
+
+PID : 4992
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.17
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 5004
+Name : MsMpEng.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 3.20
+Memory % : 1.10
+Thread Count % : 66.00
+------------------------------------------------------------
+
+PID : 5456
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 5568
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.39
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 5680
+Name : IGCCTray.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.46
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 5792
+Name : WUDFCompanionHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 6004
+Name : sihost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.32
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 6036
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 6116
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.65
+Thread Count % : 27.00
+------------------------------------------------------------
+
+PID : 6368
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 16.00
+------------------------------------------------------------
+
+PID : 6600
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.66
+Thread Count % : 31.00
+------------------------------------------------------------
+
+PID : 6624
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 2.32
+Thread Count % : 31.00
+------------------------------------------------------------
+
+PID : 6700
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 1.00
+Memory % : 1.59
+Thread Count % : 46.00
+------------------------------------------------------------
+
+PID : 7028
+Name : unsecapp.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 7164
+Name : python.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 90.80
+Memory % : 0.15
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 7624
+Name : LNVDispatcherService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.14
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 7980
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.22
+Thread Count % : 12.00
+------------------------------------------------------------
+
+PID : 7996
+Name : MidiSrv.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.17
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 8196
+Name : SystemSettings.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 44.00
+------------------------------------------------------------
+
+PID : 8232
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 8268
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 8344
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 8360
+Name : AggregatorHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 8364
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 8380
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.17
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 8428
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 8468
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 8476
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.50
+Memory % : 0.14
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 8532
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 8620
+Name : EllipticHPDDaemon.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 8716
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 8724
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 8732
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 8804
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 8868
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 9040
+Name : wlanext.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 9120
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.40
+Memory % : 0.22
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 9184
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 18.00
+------------------------------------------------------------
+
+PID : 9204
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.13
+Thread Count % : 21.00
+------------------------------------------------------------
+
+PID : 9212
+Name : OpenConsole.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.13
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 9224
+Name : Widgets.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 9348
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.18
+Thread Count % : 14.00
+------------------------------------------------------------
+
+PID : 9352
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 9404
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 9468
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.46
+Thread Count % : 23.00
+------------------------------------------------------------
+
+PID : 9492
+Name : RtkAudUService64.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 9548
+Name : Copilot.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.15
+Thread Count % : 26.00
+------------------------------------------------------------
+
+PID : 9920
+Name : NisSrv.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.90
+Memory % : 0.09
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 10376
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 10384
+Name : ApplicationFrameHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.27
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 10396
+Name : LenovoVantage-(VantageCoreAddin).exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 19.00
+------------------------------------------------------------
+
+PID : 10428
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 10504
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 10560
+Name : Win32Controller.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 11012
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 11088
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 11112
+Name : OneDrive.Sync.Service.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 18.00
+------------------------------------------------------------
+
+PID : 11128
+Name : AutoModeDetect.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 11140
+Name : DAX3API.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 11156
+Name : ipf_helper.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 11180
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 11200
+Name : uihost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.22
+Thread Count % : 65.00
+------------------------------------------------------------
+
+PID : 11252
+Name : mc-fw-host.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.20
+Thread Count % : 50.00
+------------------------------------------------------------
+
+PID : 11312
+Name : unsecapp.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 11336
+Name : AppActions.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 11392
+Name : explorer.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 46.90
+Memory % : 2.62
+Thread Count % : 97.00
+------------------------------------------------------------
+
+PID : 11460
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 11536
+Name : FnHotkeyCapsLKNumLK.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 11624
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.17
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 11640
+Name : taskhostw.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.14
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 11728
+Name : FnHotkeyUtility.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.27
+Thread Count % : 14.00
+------------------------------------------------------------
+
+PID : 11752
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.40
+Memory % : 0.02
+Thread Count % : 21.00
+------------------------------------------------------------
+
+PID : 11756
+Name : WidgetService.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.15
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 11764
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 2.00
+Memory % : 0.22
+Thread Count % : 28.00
+------------------------------------------------------------
+
+PID : 11964
+Name : ONENOTEM.EXE
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.02
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 12284
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 12348
+Name : ShellHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 12400
+Name : Locator.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 12664
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 12720
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.37
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 12880
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.80
+Memory % : 0.19
+Thread Count % : 23.00
+------------------------------------------------------------
+
+PID : 12920
+Name : CrossDeviceResume.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 13408
+Name : unsecapp.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 13448
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 13572
+Name : CrossDeviceService.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.55
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 13584
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.59
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 13776
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 13960
+Name : SearchHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.91
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 14004
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.40
+Memory % : 0.85
+Thread Count % : 19.00
+------------------------------------------------------------
+
+PID : 14036
+Name : UserOOBEBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 14092
+Name : StartMenuExperienceHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.90
+Thread Count % : 17.00
+------------------------------------------------------------
+
+PID : 14200
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 14308
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 14372
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.46
+Thread Count % : 18.00
+------------------------------------------------------------
+
+PID : 14416
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.31
+Thread Count % : 19.00
+------------------------------------------------------------
+
+PID : 14424
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 14676
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.46
+Thread Count % : 22.00
+------------------------------------------------------------
+
+PID : 14760
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 15056
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.15
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 15136
+Name : ShellExperienceHost.exe
+UserName : SHREYA\shrey
+Status : stopped
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.50
+Thread Count % : 20.00
+------------------------------------------------------------
+
+PID : 15472
+Name : SecurityHealthService.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 15552
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 15584
+Name : FileSyncHelper.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.17
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 15848
+Name : MessagingPlugin.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.25
+Thread Count % : 14.00
+------------------------------------------------------------
+
+PID : 15924
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.72
+Thread Count % : 49.00
+------------------------------------------------------------
+
+PID : 15972
+Name : OpenConsole.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.13
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 16052
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 16128
+Name : OfficeClickToRun.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.52
+Thread Count % : 24.00
+------------------------------------------------------------
+
+PID : 16420
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 16548
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.55
+Thread Count % : 21.00
+------------------------------------------------------------
+
+PID : 16580
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count % : 23.00
+------------------------------------------------------------
+
+PID : 16868
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 16928
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 1.80
+Memory % : 0.71
+Thread Count % : 30.00
+------------------------------------------------------------
+
+PID : 17448
+Name : LenovoVantage-(GenericTelemetryAddin).exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 17.00
+------------------------------------------------------------
+
+PID : 17492
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.63
+Thread Count % : 25.00
+------------------------------------------------------------
+
+PID : 17508
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.70
+Memory % : 0.92
+Thread Count % : 48.00
+------------------------------------------------------------
+
+PID : 17516
+Name : ctfmon.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.23
+Thread Count % : 14.00
+------------------------------------------------------------
+
+PID : 17528
+Name : PhoneExperienceHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.08
+Thread Count % : 19.00
+------------------------------------------------------------
+
+PID : 17796
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 18032
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.20
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 18116
+Name : LenovoVantage-(SmartDisplayAddin).exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 18240
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.01
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 18312
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 18344
+Name : FileCoAuth.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 1.10
+Memory % : 0.20
+Thread Count % : 6.00
+------------------------------------------------------------
+
+PID : 18560
+Name : RtkAudUService64.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 18624
+Name : conhost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 18720
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.50
+Thread Count % : 51.00
+------------------------------------------------------------
+
+PID : 18760
+Name : LenovoPPM.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count % : 8.00
+------------------------------------------------------------
+
+PID : 18788
+Name : powershell.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.32
+Thread Count % : 12.00
+------------------------------------------------------------
+
+PID : 18980
+Name : AppProvisioningPlugin.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.21
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 19000
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 12.00
+------------------------------------------------------------
+
+PID : 19020
+Name : IGCC.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 19068
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 19312
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 19512
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 19556
+Name : pet.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 17.00
+------------------------------------------------------------
+
+PID : 19788
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 3.39
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 19816
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.21
+Thread Count % : 23.00
+------------------------------------------------------------
+
+PID : 19864
+Name : LenovoVantage-(SmartNoiseCancelledAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 12.00
+------------------------------------------------------------
+
+PID : 19880
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.19
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 19892
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.07
+Thread Count % : 26.00
+------------------------------------------------------------
+
+PID : 20040
+Name : svchost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.10
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 20080
+Name : Code.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.69
+Thread Count % : 26.00
+------------------------------------------------------------
+
+PID : 20212
+Name : LenovoVantage-(GenericMessagingAddin).exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 20232
+Name : OneDrive.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 13.50
+Memory % : 1.00
+Thread Count % : 40.00
+------------------------------------------------------------
+
+PID : 20320
+Name : LenovoVantage.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 1.00
+Memory % : 0.07
+Thread Count % : 45.00
+------------------------------------------------------------
+
+PID : 20404
+Name : SearchIndexer.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 1.30
+Memory % : 0.22
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 20424
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.56
+Thread Count % : 27.00
+------------------------------------------------------------
+
+PID : 20460
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 20608
+Name : smartscreen.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.08
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 20612
+Name : BatteryWidgetHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.32
+Thread Count % : 16.00
+------------------------------------------------------------
+
+PID : 20888
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 21140
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.30
+Memory % : 0.12
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 21304
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.51
+Thread Count % : 28.00
+------------------------------------------------------------
+
+PID : 21352
+Name : backgroundTaskHost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count % : 5.00
+------------------------------------------------------------
+
+PID : 21752
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.72
+Thread Count % : 62.00
+------------------------------------------------------------
+
+PID : 21768
+Name : WhatsApp.Root.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 1.26
+Thread Count % : 35.00
+------------------------------------------------------------
+
+PID : 21848
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 21856
+Name : WmiApSrv.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.07
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 22064
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.23
+Thread Count % : 21.00
+------------------------------------------------------------
+
+PID : 22224
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 22392
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.36
+Thread Count % : 25.00
+------------------------------------------------------------
+
+PID : 22652
+Name : LenovoVantage-(SmartPanelAddin).exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 23036
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 2.00
+------------------------------------------------------------
+
+PID : 23192
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 23236
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.05
+Thread Count % : 4.00
+------------------------------------------------------------
+
+PID : 23432
+Name : M365Copilot.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.69
+Thread Count % : 44.00
+------------------------------------------------------------
+
+PID : 23524
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 2.92
+Thread Count % : 29.00
+------------------------------------------------------------
+
+PID : 23632
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 51.00
+------------------------------------------------------------
+
+PID : 23672
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 7.00
+------------------------------------------------------------
+
+PID : 23944
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 21.00
+------------------------------------------------------------
+
+PID : 23976
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 21.00
+------------------------------------------------------------
+
+PID : 24016
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count % : 9.00
+------------------------------------------------------------
+
+PID : 24208
+Name : msedgewebview2.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.00
+Thread Count % : 29.00
+------------------------------------------------------------
+
+PID : 24636
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.37
+Thread Count % : 23.00
+------------------------------------------------------------
+
+PID : 24648
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count % : 13.00
+------------------------------------------------------------
+
+PID : 25008
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 25016
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.03
+Thread Count % : 1.00
+------------------------------------------------------------
+
+PID : 25024
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 25060
+Name : conhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.06
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 25100
+Name : browserhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.09
+Thread Count % : 46.00
+------------------------------------------------------------
+
+PID : 25116
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.30
+Thread Count % : 15.00
+------------------------------------------------------------
+
+PID : 25120
+Name : mc-extn-browserhost.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.11
+Thread Count % : 50.00
+------------------------------------------------------------
+
+PID : 25376
+Name : RuntimeBroker.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.16
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 25560
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.33
+Thread Count % : 19.00
+------------------------------------------------------------
+
+PID : 25800
+Name : cmd.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.04
+Thread Count % : 3.00
+------------------------------------------------------------
+
+PID : 26012
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 26020
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.26
+Thread Count % : 11.00
+------------------------------------------------------------
+
+PID : 26368
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.52
+Thread Count % : 17.00
+------------------------------------------------------------
+
+PID : 26488
+Name : WmiPrvSE.exe
+UserName : None
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.12
+Thread Count % : 10.00
+------------------------------------------------------------
+
+PID : 27284
+Name : chrome.exe
+UserName : SHREYA\shrey
+Status : running
+Start Time : NA
+CPU % : 0.00
+Memory % : 0.59
+Thread Count % : 24.00
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+---------------------End of Log File------------------------
+------------------------------------------------------------
