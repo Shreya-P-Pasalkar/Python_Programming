@@ -1,0 +1,20 @@
+################################################################################
+#   Function Name : main
+#   Description   : Starting point of application
+#   Input         : Nothing
+#   Output        : Nothing
+#   Author        : Shreya Pramod Pasalkar
+#   Data          : 20/03/2026         
+################################################################################
+def main() :
+    # Sequence
+    print("Jay Ganesh...")
+    print("Jay Ganesh...")
+    print("Jay Ganesh...")
+    print("Jay Ganesh...")
+
+################################################################################
+#   Starter        
+################################################################################
+if __name__ == "__main__" :
+    main()
