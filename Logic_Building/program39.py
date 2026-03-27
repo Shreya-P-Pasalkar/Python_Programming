@@ -1,12 +1,12 @@
 ################################################################################
-#   Function Name : CountFactors
-#   Description   : It is used to count factors
-#   Input         : Number
-#   Output        : Number
+#   Function Name : CountNonFactors
+#   Description   : It is used to count Non-factors
+#   Input         : Nothing
+#   Output        : Nothing
 #   Author        : Shreya Pramod Pasalkar
 #   Data          : 20/03/2026         
 ################################################################################
-def CountFactors(No) :
+def CountNonFactors(No) :
     iSum = 0
 
     # Handling negative Value
@@ -15,7 +15,7 @@ def CountFactors(No) :
     
     # Iteration using for loop
     for i in range(1,(No + 1)) :
-        if((No % i) == 0) :
+        if((No % i) != 0) :
             iSum += 1
 
     return iSum
@@ -35,9 +35,9 @@ def main() :
     print("Enter Number : ")
     Value = int(input())
 
-    Ret = CountFactors(Value)
+    Ret = CountNonFactors(Value)
 
-    print(f"Total number of factors of {Value} are : {Ret}")
+    print(f"Total number of non-factors of {Value} are : {Ret}")
 
 ################################################################################
 #   Starter        

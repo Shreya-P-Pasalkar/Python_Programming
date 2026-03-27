@@ -1,24 +1,25 @@
 ################################################################################
-#   Function Name : CountFactors
-#   Description   : It is used to count factors
+#   Function Name : CheckPrime
+#   Description   : It is used to if number is prime of not
 #   Input         : Number
-#   Output        : Number
+#   Output        : boolean
 #   Author        : Shreya Pramod Pasalkar
 #   Data          : 20/03/2026         
 ################################################################################
-def CountFactors(No) :
-    iSum = 0
+def CheckPrime(No) :
+    Freq = 0
 
-    # Handling negative Value
-    if(No < 0) :
-        No = -No
-    
-    # Iteration using for loop
-    for i in range(1,(No + 1)) :
+    # Optimized
+    # Time complexity : O(N/2)
+    for i in range(2,(No//2)+1) :
         if((No % i) == 0) :
-            iSum += 1
+            Freq += 1
 
-    return iSum
+    if(Freq > 1) :
+        return False
+    else :
+        return True
+
 
 ################################################################################
 #   Function Name : main
@@ -35,9 +36,12 @@ def main() :
     print("Enter Number : ")
     Value = int(input())
 
-    Ret = CountFactors(Value)
+    Ret = CheckPrime(Value)
 
-    print(f"Total number of factors of {Value} are : {Ret}")
+    if(Ret == True) :
+        print(f"{Value} is prime")
+    else :
+        print(f"{Value} is not prime")
 
 ################################################################################
 #   Starter        

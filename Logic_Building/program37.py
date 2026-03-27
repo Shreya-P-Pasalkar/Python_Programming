@@ -12,8 +12,7 @@ def DisplayNonFactors(No) :
         No = -No
     
     # Iteration using for loop
-    # Optimized
-    for i in range(1,(No+1)) :
+    for i in range(1,((No+1)//2)) :
         if((No % i) != 0) :
             print(i)
 

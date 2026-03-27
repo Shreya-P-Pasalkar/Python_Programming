@@ -1,24 +1,18 @@
 ################################################################################
-#   Function Name : CountFactors
-#   Description   : It is used to count factors
+#   Function Name : CheckDivisibility
+#   Description   : It is used to if number is divisible by number
 #   Input         : Number
-#   Output        : Number
+#   Output        : boolean
 #   Author        : Shreya Pramod Pasalkar
 #   Data          : 20/03/2026         
 ################################################################################
-def CountFactors(No) :
-    iSum = 0
-
-    # Handling negative Value
-    if(No < 0) :
-        No = -No
+def CheckDivisibility(No1,No2) :
     
     # Iteration using for loop
-    for i in range(1,(No + 1)) :
-        if((No % i) == 0) :
-            iSum += 1
-
-    return iSum
+    if(No1 % No2 == 0) :
+        return True
+    else :
+        return False
 
 ################################################################################
 #   Function Name : main
@@ -29,15 +23,22 @@ def CountFactors(No) :
 #   Data          : 20/03/2026         
 ################################################################################
 def main() :
-    Value = 0
+    Value1 = 0
+    Value2 = 0
     Ret = 0
 
-    print("Enter Number : ")
-    Value = int(input())
+    print("Enter First Number : ")
+    Value1 = int(input())
 
-    Ret = CountFactors(Value)
+    print("Enter Second Number : ")
+    Value2 = int(input())
 
-    print(f"Total number of factors of {Value} are : {Ret}")
+    Ret = CheckDivisibility(Value1,Value2)
+
+    if(Ret == True) :
+        print(f"{Value1} is divisible by {Value2}")
+    else :
+        print(f"{Value1} is not divisible by {Value2}")
 
 ################################################################################
 #   Starter        
