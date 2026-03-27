@@ -20,7 +20,6 @@ def CheckPrime(No) :
 
     return bFlag
 
-
 ################################################################################
 #   Function Name : main
 #   Description   : Starting point of application
