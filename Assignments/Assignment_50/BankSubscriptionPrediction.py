@@ -408,9 +408,6 @@ def ModelEvaluation(LogisticModel, KNNModel, RFModel, X_test, Y_test) :
     plt.show()
     print("ROC Curve for Random Forest Classifier displayed successfully!")
 
-
-    
-
 #########################################################################################
 #   Function Name : main
 #   Description   : Entry-point funtion
