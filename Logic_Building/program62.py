@@ -10,9 +10,9 @@ def CheckPerfect(No) :
     i = 1
 
     # Alternative to give 2 conditions
-    # But in this case dual condition fails 
-    while i <= (No/2) and (No % i == 0) :
-        Sum = Sum + i
+    while i <= (No/2) and  (Sum < No):
+        if (No % i == 0) :
+            Sum = Sum + i
         i += 1
 
     return (Sum == No)
