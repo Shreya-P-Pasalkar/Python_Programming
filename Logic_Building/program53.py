@@ -6,6 +6,8 @@
 #   Author        : Shreya Pramod Pasalkar   
 ################################################################################
 def CountDigits(iNo) :
+    # With taking digits
+    
     iDigit = 0
     iCount = 0
 
